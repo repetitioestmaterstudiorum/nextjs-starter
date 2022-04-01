@@ -1,0 +1,30 @@
+.header {
+	list-style-type: none;
+}
+
+.header ul {
+	background: #f2f2f2ea;
+	display: flex;
+	flex: 1;
+	justify-content: center;
+	align-items: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	font-size: 1.2rem;
+}
+
+.header li a {
+	display: block;
+	text-align: center;
+	padding: 1vw 2vw;
+	text-decoration: none;
+}
+
+.header li a:hover {
+	background-color: white;
+}

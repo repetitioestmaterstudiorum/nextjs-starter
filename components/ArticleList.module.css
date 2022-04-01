@@ -1,0 +1,9 @@
+.articleList h4 {
+	text-transform: uppercase;
+	font-weight: 100;
+}
+
+.articleList h4:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}

@@ -9,7 +9,7 @@ export default function Home() {
 
 			<h1>Welcome to this Next.js website!</h1>
 
-			<p>....</p>
+			<p>This is a very exciting website.</p>
 		</>
 	)
 }
