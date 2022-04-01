@@ -21,7 +21,7 @@
 .header li a {
 	display: block;
 	text-align: center;
-	padding: 1vw 2vw;
+	padding: 1em;
 	text-decoration: none;
 }
 
